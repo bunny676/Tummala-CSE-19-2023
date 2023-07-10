@@ -25,7 +25,3 @@ Many bugs appeared in the process of installing and implementing the base gym-so
 Main (and really only) plan is to continue to work on the REINFORCE algorithm implementation.
 - start setting up the deep learning pipeline, and
 - start working with the Nano and cameras.
-
-# Article Summaries
-
-None this week. So I should just remove this section.
