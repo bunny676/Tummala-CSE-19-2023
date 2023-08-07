@@ -2,11 +2,11 @@
 
 | Date  | Notes
 | :---- | :----
-| 07/24 | Worked on getting ConvLSTM to work with a2c
-| 07/25 | Worked on getting ConvLSTM to work with a2c
-| 07/26 | Worked on getting ConvLSTM to work with a2c
-| 07/27 | Worked on getting ConvLSTM to work with a2c
-| 07/28 | Worked on getting ConvLSTM to work with a2c
+| 07/31 | Worked on getting ConvLSTM to work with a2c
+| 08/01 | Worked on getting ConvLSTM to work with a2c
+| 08/02 | Worked on getting ConvLSTM to work with a2c
+| 08/03 | Worked on getting ConvLSTM to work with a2c
+| 08/04 | Worked on getting ConvLSTM to work with a2c
 
 # Activities
 
